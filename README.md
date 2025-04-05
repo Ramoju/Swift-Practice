@@ -1,2 +1,8 @@
 # Swift-Practice
-My Go-to or reference to revise Swift basics. Covers data types, loops, control statements, functions, closures and struct, classes and yes we cannot optionals as optional.
+My Go-to repo and a reference to revise Swift language basics or fundamentals. Covers <br/>
+Data types <br/>
+Loops and control statements<br/>
+Functions<br/>
+Closures <br/>
+Structs and Classes and <br/>
+yes we cannot Optionals as optional
