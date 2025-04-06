@@ -5,4 +5,4 @@ My Go-to repo and a reference to revise Swift language basics or fundamentals. C
 - Functions<br/>
 - Closures <br/>
 - Structs and Classes and <br/>
-- yes we cannot Optionals as optional
+- yes we cannot leave Optionals as optional
